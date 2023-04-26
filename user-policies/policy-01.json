@@ -1,0 +1,12 @@
+{
+    "mode": "Blocking",
+    "labels": {
+        "hate": {
+            "blocking": true,
+            "severity": "low"
+        },
+        "sexual": {
+            "blocking": false
+        }
+    }
+}
