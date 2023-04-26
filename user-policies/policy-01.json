@@ -1,12 +1,16 @@
 {
     "mode": "Blocking",
-    "labels": {
-        "hate": {
+    "labels": [
+        {
+            "label": "hate",
+            "textType": "prompt",
             "blocking": true,
             "severity": "low"
         },
-        "sexual": {
+        {
+            "label": "sexual",
+            "textType": "completion",
             "blocking": false
         }
-    }
+    ]
 }
