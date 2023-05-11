@@ -17,7 +17,6 @@ POLICY_POOL = {
 }
 
 def random_annotate(seq, endpoint: str, token: str):
-    print(f'seq start: {seq}')
     policy_id = random.choice(list(POLICY_POOL))
     exists = POLICY_POOL[policy_id]
 
@@ -47,9 +46,9 @@ def main():
     endpoint = sys.argv[1]
     token = sys.argv[2]
     
-    pool = ThreadPoolExecutor(max_workers=16)
+    pool = ThreadPoolExecutor(max_workers=32)
     futures = []
-    for i in range(100):
+    for i in range(1000):
         future = pool.submit(random_annotate, i, endpoint, token)
         futures.append(future)
         
