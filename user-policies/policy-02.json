@@ -1,0 +1,71 @@
+{
+    "mode": "Blocking",
+    "id": "Microsoft.Default",
+    "labels": [
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        }
+    ],
+    "blocklists": [
+        {
+            "id": "blocklist_uuid1",
+            "version": 1,
+            "type": "MODEL_GENERATED"
+        },
+        {
+            "id": "blocklist_uuid2",
+            "version": 1,
+            "type": "USER_REQUEST"
+        },
+        {
+            "id": "blocklist_uuid3",
+            "version": 1,
+            "type": "MODEL_GENERATED"
+        }
+    ]
+}
