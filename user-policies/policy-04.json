@@ -1,0 +1,81 @@
+{
+    "mode": "Blocking",
+    "id": "Microsoft.Default",
+    "labels": [
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "CustomerBlocklist",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "CustomerBlocklist",
+            "blocking": true,
+            "textType": "Completion"
+        }
+    ],
+    "blocklists": [
+        {
+            "id": "0ef7cc35-ff5f-402e-bd31-608b81caa9d3",
+            "version": 0,
+            "type": "MODEL_GENERATED"
+        },
+        {
+            "id": "f196f216-7411-40b3-90dd-73c431a5a551",
+            "version": 0,
+            "type": "USER_REQUEST"
+        },
+        {
+            "id": "f196f216-7411-40b3-90dd-73c431a5a551",
+            "version": 0,
+            "type": "MODEL_GENERATED"
+        }
+    ]
+}
