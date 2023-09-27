@@ -1,0 +1,28 @@
+{
+    "mode": "Blocking",
+    "id": "Microsoft.Default",
+    "labels": [
+        {
+            "label": "CustomerBlocklist",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "CustomerBlocklist",
+            "blocking": true,
+            "textType": "Completion"
+        }
+    ],
+    "blocklists": [
+        {
+            "id": "CustomerBlocklist-1",
+            "version": 1,
+            "type": "MODEL_GENERATED"
+        },
+        {
+            "id": "CustomerBlocklist-1",
+            "version": 1,
+            "type": "USER_REQUEST"
+        }
+    ]
+}
