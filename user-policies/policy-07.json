@@ -1,0 +1,16 @@
+{
+    "mode": "Blocking",
+    "id": "Microsoft.Default",
+    "labels": [
+        {
+            "label": "CombinedJailbreak",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "CombinedJailbreak",
+            "blocking": true,
+            "textType": "Completion"
+        }
+    ]
+}
