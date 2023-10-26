@@ -3,12 +3,12 @@
     "id": "Microsoft.Default",
     "labels": [
         {
-            "label": "CombinedJailbreak",
+            "label": "jailbreak",
             "blocking": true,
             "textType": "Prompt"
         },
         {
-            "label": "CombinedJailbreak",
+            "label": "jailbreak",
             "blocking": true,
             "textType": "Completion"
         }
