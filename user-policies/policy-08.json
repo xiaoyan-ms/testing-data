@@ -1,0 +1,84 @@
+{
+    "mode": "Blocking",
+    "id": "Microsoft.Default",
+    "labels": [
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "third_party_text",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "third_party_text",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "third_party_code",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "third_party_code",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "jailbreak",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "jailbreak",
+            "blocking": true,
+            "textType": "Completion"
+        }
+    ]
+}
