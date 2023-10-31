@@ -51,22 +51,22 @@
             "textType": "Completion"
         },
         {
-            "label": "third_party_text",
+            "label": "protected_materials_text",
             "blocking": true,
             "textType": "Prompt"
         },
         {
-            "label": "third_party_text",
+            "label": "protected_materials_text",
             "blocking": true,
             "textType": "Completion"
         },
         {
-            "label": "third_party_code",
+            "label": "protected_materials_code",
             "blocking": true,
             "textType": "Prompt"
         },
         {
-            "label": "third_party_code",
+            "label": "protected_materials_code",
             "blocking": true,
             "textType": "Completion"
         },
