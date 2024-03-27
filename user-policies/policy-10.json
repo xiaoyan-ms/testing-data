@@ -1,0 +1,28 @@
+{
+    "mode": "BLOCKING",
+    "labels": [
+        {
+            "label": "profanity",
+            "sourceType": "prompt",
+            "blocking": false,
+            "annotating": true
+        },
+        {
+            "label": "CustomerBlocklist",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "CustomerBlocklist",
+            "blocking": true,
+            "textType": "Completion"
+        }
+    ],
+    "blocklists": [
+        {
+            "id": "CustomerBlocklist-1",
+            "version": 1,
+            "type": "USER_REQUEST"
+        }
+    ]
+}
