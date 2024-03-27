@@ -1,0 +1,65 @@
+{
+    "mode": "Blocking",
+    "id": "Microsoft.Default",
+    "labels": [
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "hate",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "sexual",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "violence",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "self_harm",
+            "severity": "Medium",
+            "blocking": true,
+            "textType": "Completion"
+        },
+        {
+            "label": "security",
+            "blocking": true,
+            "textType": "Prompt"
+        },
+        {
+            "label": "security",
+            "blocking": true,
+            "textType": "Completion"
+        }
+    ]
+}
+
