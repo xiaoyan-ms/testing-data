@@ -1,0 +1,467 @@
+{
+    "mode": "BLOCKING",
+    "labels": [
+        {
+            "label": "pii_abaroutingnumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_aubankaccountnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_aubusinessnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_aucompanynumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_audriverslicensenumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_aumedicalaccountnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_aupassportnumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_autaxfilenumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_address",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_age",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azuredocumentdbauthkey",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azureiaasdatabaseconnectionandsqlstring",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+
+        {
+            "label": "pii_azureiotconnectionstring",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurepublishsettingpassword",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurerediscachestring",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azuresas",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azureservicebusstring",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurestorageaccountgeneric",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurestorageaccountkey",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_cabankaccountnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_cadriverslicensenumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_cahealthservicenumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_capassportnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_creditcardnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_drugenforcementagencynumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_eudebitcardnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_eudriverslicensenumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_eunationalidentificationnumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_eupassportnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_email",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_ipaddress",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_internationalbankingaccountnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_person",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_phonenumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_sqlserverconnectionstring",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_swiftcode",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_ukdriverslicensenumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_ukelectoralrollnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_uknationalhealthnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_uknationalinsurancenumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_ukuniquetaxpayernumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_usbankaccountnumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_usdriverslicensenumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_usindividualtaxpayeridentification",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_ussocialsecuritynumber",
+            "sourceType": "Prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_usukpassportnumber",
+            "sourceType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "pii_abaroutingnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_aubankaccountnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_aubusinessnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_aucompanynumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_audriverslicensenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_aumedicalaccountnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_aupassportnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_autaxfilenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_address",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_age",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azuredocumentdbauthkey",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azureiaasdatabaseconnectionandsqlstring",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+
+        {
+            "label": "pii_azureiotconnectionstring",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurepublishsettingpassword",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurerediscachestring",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azuresas",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azureservicebusstring",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurestorageaccountgeneric",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_azurestorageaccountkey",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_cabankaccountnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_cadriverslicensenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_cahealthservicenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_capassportnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_creditcardnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_drugenforcementagencynumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_eudebitcardnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_eudriverslicensenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_eunationalidentificationnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_eupassportnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_email",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_ipaddress",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_internationalbankingaccountnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_person",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_phonenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_sqlserverconnectionstring",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_swiftcode",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_ukdriverslicensenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_ukelectoralrollnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_uknationalhealthnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_uknationalinsurancenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_ukuniquetaxpayernumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_usbankaccountnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_usdriverslicensenumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_usindividualtaxpayeridentification",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_ussocialsecuritynumber",
+            "sourceType": "Completion",
+            "blocking": true
+        },
+        {
+            "label": "pii_usukpassportnumber",
+            "sourceType": "Completion",
+            "blocking": true
+        }
+    ]
+}
