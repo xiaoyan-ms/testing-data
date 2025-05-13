@@ -1,0 +1,26 @@
+{
+    "mode": "Blocking",
+    "labels": [
+        {
+            "label": "hate",
+            "textType": "prompt",
+            "blocking": true,
+            "severity": "low"
+        },
+        {
+            "label": "sexual",
+            "textType": "completion",
+            "blocking": false
+        },
+        {
+            "label": "indirect_attack_spotlighting",
+            "textType": "prompt",
+            "blocking": true
+        },
+        {
+            "label": "indirect_attack_spotlighting",
+            "textType": "completion",
+            "blocking": false
+        }
+    ]
+}
