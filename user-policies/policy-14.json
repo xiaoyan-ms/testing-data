@@ -121,6 +121,20 @@
       "type": "MODEL_GENERATED",
       "blocking": true,
       "annotating": true
+    },
+    {
+      "id": "06b65ff6-e221-457c-b281-74b2df5e4596",
+      "version": 1,
+      "type": "USER_REQUEST",
+      "blocking": true,
+      "annotating": true
+    },
+    {
+      "id": "06b65ff6-e221-457c-b281-74b2df5e4596",
+      "version": 1,
+      "type": "MODEL_GENERATED",
+      "blocking": true,
+      "annotating": true
     }
   ],
   "blocklistserviceendpoint": "https://rai-incident-response.usc.ppe.api.cog.trafficmanager.net/"
