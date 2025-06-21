@@ -96,5 +96,5 @@
     }
   ],
   "blocklists": [],
-  "blocklistserviceendpoint": ""
+  "blocklistserviceendpoint": "https://rai-incident-response.usc.ppe.api.cog.trafficmanager.net/"
 }
