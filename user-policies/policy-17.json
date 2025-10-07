@@ -1,0 +1,100 @@
+{
+  "mode": "Default",
+  "id": "Microsoft.DefaultV2",
+  "labels": [
+    {
+      "label": "hate",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt"
+    },
+    {
+      "label": "hate",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion"
+    },
+    {
+      "label": "sexual",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt"
+    },
+    {
+      "label": "sexual",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion"
+    },
+    {
+      "label": "violence",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt"
+    },
+    {
+      "label": "violence",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion"
+    },
+    {
+      "label": "self_harm",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt"
+    },
+    {
+      "label": "self_harm",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion"
+    },
+    {
+      "label": "jailbreak",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt"
+    },
+    {
+      "label": "protected_material_text",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion"
+    },
+    {
+      "label": "protected_material_code",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion"
+    },
+    {
+      "label": "indirect_attack",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt"
+    },
+    {
+      "label": "profanity",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt"
+    },
+    {
+      "label": "profanity",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion"
+    }
+  ],
+  "blocklists": [],
+  "blocklistserviceendpoint": "https://rai-incident-response.usc.ppe.api.cog.trafficmanager.net/"
+}
