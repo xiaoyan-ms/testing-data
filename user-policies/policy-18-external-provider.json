@@ -1,0 +1,38 @@
+{
+  "mode": "Default",
+  "id": "Microsoft.DefaultV2",
+  "labels": [
+    {
+      "label": "externalSafetyProvider",
+      "blocking": true,
+      "annotating": true,
+      "textType": "Completion"
+    },
+    {
+      "label": "externalSafetyProvider",
+      "blocking": true,
+      "annotating": true,
+      "textType": "Prompt"
+    }
+  ],
+  "blocklists": [],
+  "externalSafetyProviderConfigs": [
+    {
+      "name": "PaloAlto",
+      "webhookurl": "http://PaloAlto.com/analyze",
+      "kv_url": "<url>",
+      "secreteName": "ApiKeyName",
+      "MI": "MI_ClientId",
+      "type": "Prompt"
+    },
+    {
+      "name": "PaloAlto",
+      "webhookurl": "http://PaloAlto.com/analyze",
+      "kv_url": "<url>",
+      "secreteName": "ApiKeyName",
+      "MI": "MI_ClientId",
+      "type": "Completion"
+    }
+  ],
+  "blocklistserviceendpoint": "https://rai-incident-response.usc.ppe.api.cog.trafficmanager.net/"
+}
