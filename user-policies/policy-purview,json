@@ -1,0 +1,20 @@
+{
+  "mode": "Default",
+  "id": "Microsoft.DefaultV2",
+  "labels": [
+    {
+      "label": "purview",
+      "blocking": true,
+      "annotating": true,
+      "textType": "Prompt"
+    },
+    {
+      "label": "purview",
+      "blocking": true,
+      "annotating": true,
+      "textType": "Completion"
+    }
+  ],
+  "blocklists": [],
+  "blocklistserviceendpoint": "https://rai-incident-response.usc.ppe.api.cog.trafficmanager.net/"
+}
