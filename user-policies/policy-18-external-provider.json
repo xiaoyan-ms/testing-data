@@ -3,6 +3,18 @@
   "id": "Microsoft.DefaultV2",
   "labels": [
     {
+      "label": "purview",
+      "blocking": true,
+      "annotating": true,
+      "textType": "Prompt"
+    },
+    {
+      "label": "purview",
+      "blocking": true,
+      "annotating": true,
+      "textType": "Completion"
+    }，
+    {
       "label": "externalSafetyProvider",
       "blocking": true,
       "annotating": true,
