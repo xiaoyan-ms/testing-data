@@ -13,7 +13,7 @@
       "blocking": true,
       "annotating": true,
       "textType": "Completion"
-    }，
+    },
     {
       "label": "externalSafetyProvider",
       "blocking": true,
