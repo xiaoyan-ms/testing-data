@@ -30,19 +30,19 @@
   "blocklists": [],
   "externalSafetyProviderConfigs": [
     {
-      "name": "PaloAlto",
-      "webhookurl": "http://PaloAlto.com/analyze",
-      "kv_url": "<url>",
+      "name": "Contoso",
+      "webhookurl": "https://externalsafetyprovidervalidation.azurewebsites.net/api/testConnection",
+      "kv_url": "https://kv-test-erik-eastus2.vault.azure.net",
       "secreteName": "ApiKeyName",
-      "MI": "MI_ClientId",
+      "MI": "2a342c01-b867-43d2-88bd-7254e8cd3782",
       "type": "Prompt"
     },
     {
-      "name": "PaloAlto",
-      "webhookurl": "http://PaloAlto.com/analyze",
-      "kv_url": "<url>",
+      "name": "Contoso",
+      "webhookurl": "https://externalsafetyprovidervalidation.azurewebsites.net/api/testConnection",
+      "kv_url": "https://kv-test-erik-eastus2.vault.azure.net",
       "secreteName": "ApiKeyName",
-      "MI": "MI_ClientId",
+      "MI": "2a342c01-b867-43d2-88bd-7254e8cd3782",
       "type": "Completion"
     }
   ],
