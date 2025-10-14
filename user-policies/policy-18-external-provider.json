@@ -33,7 +33,7 @@
       "name": "Contoso",
       "webhookurl": "https://externalsafetyprovidervalidation.azurewebsites.net/api/testConnection",
       "kv_url": "https://kv-test-erik-eastus2.vault.azure.net",
-      "secreteName": "ApiKeyName",
+      "secretName": "ApiKeyName",
       "MI": "2a342c01-b867-43d2-88bd-7254e8cd3782",
       "type": "Prompt"
     },
@@ -41,7 +41,7 @@
       "name": "Contoso",
       "webhookurl": "https://externalsafetyprovidervalidation.azurewebsites.net/api/testConnection",
       "kv_url": "https://kv-test-erik-eastus2.vault.azure.net",
-      "secreteName": "ApiKeyName",
+      "secretName": "ApiKeyName",
       "MI": "2a342c01-b867-43d2-88bd-7254e8cd3782",
       "type": "Completion"
     }
