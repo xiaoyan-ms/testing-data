@@ -89,22 +89,10 @@
       "textType": "Prompt"
     },
     {
-      "label": "profanity",
-      "blocking": true,
-      "annotating": true,
-      "textType": "Completion"
-    },
-    {
       "label": "CustomerBlocklist",
       "blocking": true,
       "annotating": true,
       "textType": "Prompt"
-    },
-    {
-      "label": "CustomerBlocklist",
-      "blocking": true,
-      "annotating": true,
-      "textType": "Completion"
     }
   ],
   "blocklists": [
