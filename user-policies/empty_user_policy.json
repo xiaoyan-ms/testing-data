@@ -1,0 +1,100 @@
+{
+  "mode": "Default",
+  "id": "Microsoft.DefaultV2",
+  "labels": [
+    {
+      "label": "hate",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt",
+      "action": "NONE"
+    },
+    {
+      "label": "hate",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion",
+      "action": "NONE"
+    },
+    {
+      "label": "sexual",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt",
+      "action": "NONE"
+    },
+    {
+      "label": "sexual",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion",
+      "action": "NONE"
+    },
+    {
+      "label": "violence",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt",
+      "action": "NONE"
+    },
+    {
+      "label": "violence",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion",
+      "action": "NONE"
+    },
+    {
+      "label": "self_harm",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt",
+      "action": "NONE"
+    },
+    {
+      "label": "self_harm",
+      "severity": "Medium",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion",
+      "action": "NONE"
+    },
+    {
+      "label": "jailbreak",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Prompt",
+      "action": "NONE"
+    },
+    {
+      "label": "protected_material_text",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion",
+      "action": "NONE"
+    },
+    {
+      "label": "protected_material_code",
+      "blocking": false,
+      "annotating": false,
+      "textType": "Completion",
+      "action": "NONE"
+    }
+  ],
+  "blocklists": [],
+  "customTopics": [],
+  "moderationlists": [],
+  "externalSafetyProviders": [],
+  "blocklistserviceendpoint": "https://rai-incident-response.use.ame.api.cog.trafficmanager.net/",
+  "customTopicServiceEndpoint": "https://rai-incident-response.use.ame.api.cog.trafficmanager.net/",
+  "moderationListServiceEndpoint": "https://rai-incident-response.use.ame.api.cog.trafficmanager.net/",
+  "ifcRules": [],
+  "toolLabels": []
+}
