@@ -3,464 +3,464 @@
     "labels": [
         {
             "label": "pii_abaroutingnumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_aubankaccountnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_aubusinessnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_aucompanynumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_audriverslicensenumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_aumedicalaccountnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_aupassportnumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_autaxfilenumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_address",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_age",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_azuredocumentdbauthkey",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_azureiaasdatabaseconnectionandsqlstring",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
 
         {
             "label": "pii_azureiotconnectionstring",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_azurepublishsettingpassword",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_azurerediscachestring",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_azuresas",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_azureservicebusstring",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_azurestorageaccountgeneric",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_azurestorageaccountkey",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_cabankaccountnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_cadriverslicensenumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_cahealthservicenumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_capassportnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_creditcardnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_drugenforcementagencynumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_eudebitcardnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_eudriverslicensenumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_eunationalidentificationnumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_eupassportnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_email",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_ipaddress",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_internationalbankingaccountnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_person",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_phonenumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_sqlserverconnectionstring",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_swiftcode",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_ukdriverslicensenumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_ukelectoralrollnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_uknationalhealthnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_uknationalinsurancenumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_ukuniquetaxpayernumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_usbankaccountnumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_usdriverslicensenumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_usindividualtaxpayeridentification",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_ussocialsecuritynumber",
-            "sourceType": "Prompt",
+            "textType": "Prompt",
             "blocking": true
         },
         {
             "label": "pii_usukpassportnumber",
-            "sourceType": "prompt",
+            "textType": "prompt",
             "blocking": true
         },
         {
             "label": "pii_abaroutingnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_aubankaccountnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_aubusinessnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_aucompanynumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_audriverslicensenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_aumedicalaccountnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_aupassportnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_autaxfilenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_address",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_age",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azuredocumentdbauthkey",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azureiaasdatabaseconnectionandsqlstring",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
 
         {
             "label": "pii_azureiotconnectionstring",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azurepublishsettingpassword",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azurerediscachestring",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azuresas",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azureservicebusstring",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azurestorageaccountgeneric",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_azurestorageaccountkey",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_cabankaccountnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_cadriverslicensenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_cahealthservicenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_capassportnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_creditcardnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_drugenforcementagencynumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_eudebitcardnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_eudriverslicensenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_eunationalidentificationnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_eupassportnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_email",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_ipaddress",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_internationalbankingaccountnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_person",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_phonenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_sqlserverconnectionstring",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_swiftcode",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_ukdriverslicensenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_ukelectoralrollnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_uknationalhealthnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_uknationalinsurancenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_ukuniquetaxpayernumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_usbankaccountnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_usdriverslicensenumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_usindividualtaxpayeridentification",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_ussocialsecuritynumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         },
         {
             "label": "pii_usukpassportnumber",
-            "sourceType": "Completion",
+            "textType": "Completion",
             "blocking": true
         }
     ]
